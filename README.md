@@ -1,4 +1,4 @@
-# Pengalaman Belajar di Dicoding
+# Pengalaman Belajar Laskar AI di Dicoding tahun 2025
 
 **18 Februari 2025**<br>
 Belajar Dasar Git dengan Github. (Progress 38%)
