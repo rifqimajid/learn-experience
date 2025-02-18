@@ -10,3 +10,7 @@ Belajar Dasar Git dengan Github. (semoga bisa konsisten ya)
 * Belajar Git Branch
 * Kolaborasi dengan Tim
 * Studi Kasus Kolaborasi dengan Tim
+
+**20 Februari 2025**<br>
+Belajar Dasar Git dengan Github.
+Harapan nya sebelum tgl 20 beres
