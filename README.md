@@ -5,12 +5,13 @@ Belajar Dasar Git dengan Github. (Progress 38%)
 * Mengenal apa itu Git & kegunaannya.
 * Mengenal apa itu tools Git seperti Github, GitLab dan GitBucket.
 
-**19 Februari 2025 (soon)**<br>
-Belajar Dasar Git dengan Github. (semoga bisa konsisten ya)
+**19 Februari 2025**<br>
+Belajar Dasar Git dengan Github. (Progress 100%) 
 * Belajar Git Branch
 * Kolaborasi dengan Tim
 * Studi Kasus Kolaborasi dengan Tim
+Belajar Logika Pemrograman (Programming Logic 101) (Progress 100%)
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress 19%)
 
 **20 Februari 2025**<br>
-Belajar Dasar Git dengan Github.
-Harapan nya sebelum tgl 20 beres
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress 19%)
