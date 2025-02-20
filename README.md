@@ -10,8 +10,8 @@ Belajar Dasar Git dengan Github. (Progress 100%)
 * Belajar Git Branch
 * Kolaborasi dengan Tim
 * Studi Kasus Kolaborasi dengan Tim
-Belajar Logika Pemrograman (Programming Logic 101) (Progress 100%)
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress 19%)
+Belajar Logika Pemrograman (Programming Logic 101) (Progress 100%)<br>
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress 19%)<br>
 
 **20 Februari 2025**<br>
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress 19%)
